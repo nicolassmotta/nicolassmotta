@@ -21,7 +21,7 @@ Sou um desenvolvedor apaixonado por programação e tecnologia. Tenho experiênc
 - Utilizo **Git** e **GitHub** para versionamento de código e colaboração em projetos open-source.
 
 ## 📫 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolassmotta)]
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nicolas.c.motta@hotmail.com)
 
 💻 **Confira meus repositórios abaixo e fique à vontade para contribuir ou entrar em contato!**
