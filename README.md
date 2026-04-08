@@ -1,36 +1,33 @@
-# Olá, eu sou o Nicolas! 👋
+# Olá, eu sou o Nicolas 👋
 
-Sou estudante de Ciência da Computação na **UTFPR** (Universidade Tecnológica Federal do Paraná).
+Sou aluno de Ciência da Computação na UTFPR e instrutor de programação na Lions Startups. Gosto de construir soluções eficientes e completas, desde a estruturação de arquiteturas back-end e bancos de dados até o ensino e desenvolvimento de interfaces front-end utilizando tecnologias tradicionais e no-code.
 
-Estou focado em desenvolvimento de software, com maior interesse em backend. Estou sempre buscando aprender novas tecnologias e construir soluções eficientes.
+### 💻 Stack Tecnológica
 
----
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,react,tailwind,vite,docker,mysql,mongodb,python&theme=light" />
+  </a>
+</div>
+<div align="left">
+  <br/>
+  <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=flat-square&logo=flutter&logoColor=white" alt="FlutterFlow" />
+</div>
+<br/>
 
-### 💻 Tecnologias e Ferramentas
+### 📊 Estatísticas e Linguagens
 
-Tenho familiaridade com as seguintes tecnologias:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolassmotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolassmotta&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=black&text_color=333333&icon_color=333333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=black&text_color=333333" />
+</div>
 
 ---
-
-### 📫 Como me encontrar
-
-* **LinkedIn:** [https://www.linkedin.com/in/nicolassmotta/](https://www.linkedin.com/in/nicolassmotta/)
-* **Email:** nicolas.c.motta@hotmail.com
+<div align="left">
+  <a href="mailto:nicolas.c.motta@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/nicolassmotta">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
