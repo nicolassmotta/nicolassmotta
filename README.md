@@ -2,6 +2,14 @@
 
 Sou aluno de Ciência da Computação na UTFPR e instrutor de programação na Lions Startups. Gosto de construir soluções eficientes e completas, desde a estruturação de arquiteturas back-end e bancos de dados até o ensino e desenvolvimento de interfaces front-end utilizando tecnologias tradicionais e no-code.
 
+### Projetos
+
+- [SyncSphere](https://github.com/nicolassmotta/sync-sphere): migração local de playlists entre serviços de música e arquivos, com acompanhamento das transferências.
+- [Prumo](https://github.com/nicolassmotta/prumo): organização de finanças pessoais com importação de faturas e extratos.
+- [Hidroconex](https://github.com/nicolassmotta/hidroconex-lp): site institucional e catálogo de produtos com painel administrativo.
+- [Agente Corretor](https://github.com/nicolassmotta/ai-grader-agent): correção de trabalhos de programação enviados por repositório, com rubrica configurável.
+- [VoteFlix](https://github.com/nicolassmotta/java-client-server-app): aplicação Java cliente-servidor para avaliação de filmes, feita na disciplina de Sistemas Distribuídos.
+
 ---
 
 ### 💻 Stack Tecnológica
