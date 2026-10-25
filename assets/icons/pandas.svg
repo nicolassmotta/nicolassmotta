@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+  <title>pandas</title>
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <g transform="translate(52 52) scale(6.333)">
+    <path fill="#fff" d="M16.922 0h2.623v18.104h-2.623zm-4.126 5.903h2.623v5.446h-2.623zm0 11.197h2.623v5.446h-2.623zM4.456 5.896h2.622V24H4.455zm4.213 6.71h2.623v5.447H8.67zm0-11.187h2.623v5.446H8.67Z"/>
+    <path fill="#FFCA00" d="M12.796 12.94h2.623v2.57h-2.623z"/>
+    <path fill="#E70488" d="M8.669 8.455h2.623v2.57H8.67z"/>
+  </g>
+</svg>
