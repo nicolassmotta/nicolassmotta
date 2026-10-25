@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+  <title>Power BI</title>
+  <defs>
+    <linearGradient id="pbi-a" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#F2C811"/>
+      <stop offset="1" stop-color="#C99A06"/>
+    </linearGradient>
+    <linearGradient id="pbi-b" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#E8B10C"/>
+      <stop offset="1" stop-color="#A97A00"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <rect width="42" height="74" x="58" y="126" fill="#F7DC6F" rx="10"/>
+  <rect width="42" height="114" x="107" y="86" fill="url(#pbi-a)" rx="10"/>
+  <rect width="42" height="154" x="156" y="46" fill="url(#pbi-b)" rx="10"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256">
+  <title>Excel</title>
+  <rect width="256" height="256" fill="#242938" rx="60"/>
+  <rect width="116" height="148" x="92" y="54" fill="#21A366" rx="14"/>
+  <path stroke="#185C37" stroke-width="6" d="M150 54v148M92 91h116M92 128h116M92 165h116"/>
+  <rect width="92" height="92" x="48" y="82" fill="#107C41" rx="12"/>
+  <path stroke="#fff" stroke-linecap="round" stroke-width="13" d="m74 108 40 40m0-40-40 40"/>
+</svg>
