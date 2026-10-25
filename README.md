@@ -75,7 +75,6 @@ Gosto de construir produto de ponta a ponta: do app no celular à infraestrutura
     <td>
       <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" title="AWS" />
       <img src="https://skillicons.dev/icons?i=docker" width="40" alt="Docker" title="Docker" />
-      <img src="https://skillicons.dev/icons?i=nginx" width="40" alt="Nginx" title="Nginx" />
       <img src="https://skillicons.dev/icons?i=cloudflare" width="40" alt="Cloudflare" title="Cloudflare" />
       <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="GitHub Actions" title="GitHub Actions" />
       <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" title="Vercel" />
