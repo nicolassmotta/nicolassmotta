@@ -69,8 +69,6 @@ Gosto de construir produto de ponta a ponta: do app no celular à infraestrutura
       <img src="https://skillicons.dev/icons?i=grafana" width="40" alt="Grafana" title="Grafana" />
       <img src="assets/icons/pandas.svg" width="40" alt="pandas" title="pandas" />
       <img src="https://skillicons.dev/icons?i=sklearn" width="40" alt="scikit-learn" title="scikit-learn" />
-      <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch" title="PyTorch" />
-      <img src="https://skillicons.dev/icons?i=opencv" width="40" alt="OpenCV" title="OpenCV" />
     </td>
   </tr>
   <tr>
