@@ -16,7 +16,7 @@ Gosto de construir produto de ponta a ponta: do app no celular à infraestrutura
 
 ## 🚀 Agora
 
-- 🚗 **Desenvolvedor e sócio no [Clube do Volante](https://clubedovolante.com.br)**, um marketplace mobile de serviços automotivos. Trabalho no app em Flutter, no backoffice em Next.js e nas 11 APIs em Node.js e TypeScript que rodam na AWS.
+- 🚗 **Desenvolvedor e sócio no [Clube do Volante](https://clubedovolante.com.br)**, um marketplace mobile de serviços automotivos. Trabalho no app em Flutter, no backoffice e nas 11 APIs em Node.js e TypeScript que rodam na AWS.
 - 🍺 **Estagiário de Data Science na HEINEKEN**, na área de processos da cerveja, com SQL, Grafana, Excel e Power BI.
 - 🦁 **Instrutor de programação na Lions Dev**, no curso Do Zero ao Herói (JavaScript, Node.js, Express e MongoDB).
 - 🎓 **Ciência da Computação na UTFPR.**
@@ -36,7 +36,6 @@ Gosto de construir produto de ponta a ponta: do app no celular à infraestrutura
     <td><b>🎨 Front-end</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=react" width="40" alt="React" title="React" />
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" alt="Next.js" title="Next.js" />
       <img src="https://skillicons.dev/icons?i=ts" width="40" alt="TypeScript" title="TypeScript" />
       <img src="https://skillicons.dev/icons?i=tailwind" width="40" alt="Tailwind CSS" title="Tailwind CSS" />
       <img src="https://skillicons.dev/icons?i=vite" width="40" alt="Vite" title="Vite" />
