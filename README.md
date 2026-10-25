@@ -84,8 +84,6 @@ Gosto de construir produto de ponta a ponta: do app no celular à infraestrutura
       <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel" title="Vercel" />
       <img src="https://skillicons.dev/icons?i=linux" width="40" alt="Linux" title="Linux" />
       <img src="https://skillicons.dev/icons?i=git" width="40" alt="Git" title="Git" />
-      <br />
-      <sub>AWS: EC2 · Lambda · API Gateway · Cognito · SES · S3 · ECR · CloudFront</sub>
     </td>
   </tr>
   <tr>
@@ -93,35 +91,6 @@ Gosto de construir produto de ponta a ponta: do app no celular à infraestrutura
     <td>
       <img src="https://skillicons.dev/icons?i=jest" width="40" alt="Jest" title="Jest" />
       <img src="https://skillicons.dev/icons?i=vitest" width="40" alt="Vitest" title="Vitest" />
-    </td>
-  </tr>
-</table>
-
-## 📌 Projetos
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎵 <a href="https://github.com/nicolassmotta/sync-sphere">SyncSphere</a></h3>
-      <p>Migração local de playlists entre Spotify, YouTube Music, Deezer, TIDAL, Apple Music e arquivos, com o progresso de cada transferência em tempo real.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>Socket.IO</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💧 <a href="https://github.com/nicolassmotta/hidroconex-lp">Hidroconex</a></h3>
-      <p>Site institucional e catálogo de produtos da <a href="https://hidroconexluvas.com.br">Hidroconex Luvas</a>, com painel administrativo para cadastrar produtos e fotos sem mexer no código.</p>
-      <p><code>React</code> <code>TypeScript</code> <code>Tailwind</code> <code>MongoDB</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/nicolassmotta/ai-grader-agent">Agente Corretor</a></h3>
-      <p>Corrige trabalhos de programação enviados por repositório do GitHub, com rubrica configurável e devolutiva pronta para o aluno.</p>
-      <p><code>Node.js</code> <code>OpenAI</code> <code>GitHub</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/nicolassmotta/java-client-server-app">VoteFlix</a></h3>
-      <p>Aplicação Java cliente-servidor para avaliação de filmes, feita na disciplina de Sistemas Distribuídos.</p>
-      <p><code>Java</code> <code>Sockets TCP</code> <code>MySQL</code> <code>JWT</code></p>
     </td>
   </tr>
 </table>
